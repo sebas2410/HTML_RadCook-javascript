@@ -1,3 +1,4 @@
+alert ("BIENVENIDO A RADCOOK");
 document.getElementById("btn__iniciar-sesion").addEventListener("click", iniciarSesion);
 document.getElementById("btn__registrarse").addEventListener("click", register);
 window.addEventListener("resize", anchoPage);
